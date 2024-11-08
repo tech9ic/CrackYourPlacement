@@ -4,7 +4,7 @@ This repository is dedicated to tracking my progress and solutions for the **"Re
 
 | Day  | Completed | Description                                          |
 |------|-----------|------------------------------------------------------|
-| 1    | [x]       | Solve Day 1 problem(s)                               |
+| 1    | - [x]       | Solve Day 1 problem(s)                               |
 | 2    | [ ]       | Solve Day 2 problem(s)                               |
 | 3    | [ ]       | Solve Day 3 problem(s)                               |
 | 4    | [ ]       | Solve Day 4 problem(s)                               |
